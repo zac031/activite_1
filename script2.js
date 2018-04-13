@@ -1,1 +1,2 @@
-alert("Ceci est le script 2");
+var hello = "Ceci est le script 2";
+alert(hello);
